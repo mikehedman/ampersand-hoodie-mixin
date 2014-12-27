@@ -2,6 +2,10 @@
 
 Provides Hoodie capability to ampersand-model and ampersand-collection
 
+---
+Note!  This is a very early working prototype.  There is not yet a unit test suite.
+---
+
 ## install
 ```
 npm install ampersand-hoodie-mixin
