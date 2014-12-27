@@ -1,0 +1,30 @@
+{
+  "name": "ampersand-hoodie-mixin",
+  "description": "Provides functionality to be mixed into models and collections to support Hoodie.",
+  "version": "0.0.2",
+  "author": {
+    "name": "Mike Hedman",
+    "email": "mikehedman@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/mikehedman/ampersand-hoodie-mixin/issues"
+  },
+  "dependencies": {
+    "ampersand-hoodie-sync": ">=0.0.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.5.6"
+  },
+  "homepage": "https://github.com/mikehedman/ampersand-hoodie-mixin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikehedman/ampersand-hoodie-mixin.git"
+  },
+  "keywords": [
+    "ampersand",
+    "hoodie",
+    "browser"
+  ],
+  "license": "MIT",
+  "main": "ampersand-hoodie-mixin.js"
+}
